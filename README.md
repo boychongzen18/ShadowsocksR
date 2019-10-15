@@ -15,7 +15,7 @@ LINK APK ShadowsocksR : https://apkpure.com/id/shadowsocksr/com.github.shadowsoc
 
 LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
 
-                        https://www.jagoanssh.com/?do=shadowsocks
+                             https://www.jagoanssh.com/?do=shadowsocks
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
