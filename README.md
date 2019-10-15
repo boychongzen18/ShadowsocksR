@@ -6,10 +6,15 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/ShadowsocksR_1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/ShadowsocksR_2.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/ShadowsocksR_3.jpg)
+# Tampilan ShadowsocksR For Windows 
+![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/SSR_1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/SSR_2.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/SSR_3.jpg)
 
 LINK APK ShadowsocksR : https://apkpure.com/id/shadowsocksr/com.github.shadowsocksr
 
 LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
+                        https://www.jagoanssh.com/?do=shadowsocks
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
