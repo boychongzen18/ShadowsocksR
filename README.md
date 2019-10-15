@@ -8,13 +8,12 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/ShadowsocksR_3.jpg)
 
 LINK APK ShadowsocksR : https://apkpure.com/id/shadowsocksr/com.github.shadowsocksr
+
 LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial Axis : https://youtu.be/jB-m8SYe_Mo
-
-Link Tutorial XL   : https://youtu.be/GQWTLSVTN0k
+Link Tutorial :
 
 My Website    : http://hackingforlive.cf,,https://hackingforlive.wordpress.com
 
