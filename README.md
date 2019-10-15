@@ -13,13 +13,15 @@ LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial :
+Link Tutorial : 
 
-My Website    : http://hackingforlive.cf,,https://hackingforlive.wordpress.com
+My Website    : https://hackingforlive.wordpress.com
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
 
-My eMAIL      : phreakingindo@gmail.com
+                https://www.facebook.com/xroot.hfl
+
+My eMAIL      : hackingforlive@yahoo.com
 
 MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
 
