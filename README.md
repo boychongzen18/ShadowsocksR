@@ -19,7 +19,7 @@ LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial  For Windows : https://youtu.be/JskalH9rOAQ
 
 My Website    : https://hackingforlive.wordpress.com
 
