@@ -1,5 +1,6 @@
-# ShadowsocksR For Android 
+# ShadowsocksR For Windows & Android Working 
 
+# Author : Boychongzen aka Xroot
 
 # Tampilan ShadowsocksR For Android 
 ![be](https://raw.githubusercontent.com/boychongzen18/ShadowsocksR/master/ShadowsocksR.jpg)
