@@ -14,7 +14,9 @@
 
 LINK APK ShadowsocksR : https://apkpure.com/id/shadowsocksr/com.github.shadowsocksr
 
-LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
+LINK AKUN Shadowsocks : https://www.tcpvpn.com/shadowsocks-server
+
+                             https://www.globalssh.net/account/shadowsocks
 
                              https://www.jagoanssh.com/?do=shadowsocks
 
